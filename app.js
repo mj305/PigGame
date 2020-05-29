@@ -62,8 +62,6 @@ document.querySelector('.btn-hold').addEventListener('click', () => {
   }
 });
 
-
-
 const nextPlayer = () => {
 
     //Next Player
